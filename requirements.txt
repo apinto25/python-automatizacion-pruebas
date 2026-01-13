@@ -1,0 +1,16 @@
+# API Server
+fastapi==0.109.0
+uvicorn==0.25.0
+pydantic==2.5.3
+
+# Testing Framework
+pytest==9.0.1
+pytest-cov==7.0.0
+
+# API Testing
+requests==2.32.5
+allure-pytest==2.15.3
+
+# Web UI Testing
+selenium==4.39.0
+webdriver-manager==4.0.2
