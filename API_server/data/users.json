@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "username": "ana_dev",
+        "email": "ana@test.com"
+    },
+    {
+        "id": 2,
+        "username": "pedro_qa",
+        "email": "pedro@test.com"
+    },
+    {
+        "id": 3,
+        "username": "carlos_dev",
+        "email": "carlos@test.com"
+    },
+    {
+        "id": 4,
+        "username": "",
+        "email": ""
+    },
+    {
+        "id": 5,
+        "username": "ana",
+        "email": "ana@test.com"
+    },
+    {
+        "id": 6,
+        "username": "ana",
+        "email": "ana@test.com"
+    },
+    {
+        "id": 7,
+        "username": "ana",
+        "email": "ana@test.com"
+    },
+    {
+        "id": 8,
+        "username": "ana",
+        "email": "ana@test.com"
+    },
+    {
+        "id": 9,
+        "username": "ana",
+        "email": "ana@test.com"
+    }
+]
